@@ -1,8 +1,12 @@
 # Kazi Amit Hasan
 
 ### Kaggle Expert (x2) | Undergraduate Research Student
-### Currently looking for Data Scientist, Research Assistant Roles.
+### Currently looking for Data Scientist, Research Assistant Roles!
 ####  Hi there 👋
+
+This is Kazi Amit Hasan, a final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE).  
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Other facts: Football and  Fitness Freak, YouTuber.
 
 
+Check the repository section to see my works! Hope, you will enjoy it!
