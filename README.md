@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Other facts: Football and  Fitness Freak, YouTuber.
 
 
-Check the repository section to see my works! Hope, you will enjoy it!
+Check the repositories section to see my efforts! Hope, you will enjoy it!
