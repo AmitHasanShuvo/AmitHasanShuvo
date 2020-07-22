@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Personal Portfolio](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
 - ⚡ Other facts: Football and  Fitness Freak, YouTuber.
-
+[![Kazi Amit Hasan's github stats](https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo)](https://github.com/AmitHasanShuvo/github-readme-stats)
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
