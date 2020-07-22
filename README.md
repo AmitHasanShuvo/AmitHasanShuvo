@@ -2,6 +2,9 @@
 
 ### Kaggle Expert (x2) | Undergraduate Research Student
 ### Currently looking for Data Scientist, Research Assistant Roles!
+
+[<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true&hide=["prs","issues","contribs"])](https://github.com/AmitHasanShuvo/github-readme-stats)
+
 ####  Hi there 👋
 
 This is Kazi Amit Hasan, a final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE).  
