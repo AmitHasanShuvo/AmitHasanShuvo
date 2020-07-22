@@ -3,7 +3,7 @@
 
 ### Kaggle Expert (x2) | Undergraduate Research Student
 
-### Currently looking for Data Scientist, Research Assistant Roles!
+### Currently looking for Data Scientist, Research Assistant, Data Analyst, Business Intelligence Roles!
 
 
 
