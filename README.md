@@ -3,7 +3,7 @@
 ### Kaggle Expert (x2) | Undergraduate Research Student
 ### Currently looking for Data Scientist, Research Assistant Roles!
 
-[<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true&hide=["prs","issues","contribs"])](https://github.com/AmitHasanShuvo/github-readme-stats)
+[<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true&hide=["prs","issues","contribs"])]>](https://github.com/AmitHasanShuvo/github-readme-stats)
 
 ####  Hi there 👋
 
