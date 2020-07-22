@@ -5,7 +5,7 @@
 
 [<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
-[<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHasanShuvo&hide_langs_below=1"/>](https://github.com/AmitHasanShuvo/)
+[<img align="right" width="300" height ="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHasanShuvo&hide_langs_below=1"/>](https://github.com/AmitHasanShuvo/)
 ####  Hi there 👋
 
 This is Kazi Amit Hasan, a final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE).  
