@@ -1,26 +1,33 @@
+## Hello World!
+
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
+<a href="https://www.linkedin.com/in/kazi-amit-hasan/">
+  <img align="left" alt="Shuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AmitHasanShuvo">
+  <img align="left" alt="Shuvo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
+  <img align="left" alt="Shuvo's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+</a>
 
-### Kaggle Expert (x2) | Undergraduate Research Student
-
-### Currently looking for Data Scientist, Research Assistant, Data Analyst, Business Intelligence Roles!
-
-
-
-####  Hi there 👋
-
-This is Kazi Amit Hasan, a final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE).  
+<a href="https://www.kaggle.com/amithasanshuvo">
+  <img align="left" alt="Shuvo's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<br />
 
 
-Here are some ideas to get you started:
+## This is Kazi Amit Hasan
+#### Kaggle Expert (x2) | Undergraduate Research Student
+- A Data enthusiast.
+- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
+- Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
+- I'm currently looking for opportunities as Data Scientist, Research Assistant Roles!
 
-- 🔭 I’m currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice
-- 🌱 I’m currently learning medical image analysis and Data Science.
-- 👯 I’m looking to collaborate on projects on medical image analysis.
-
-- 💬 Ask me about anything!
-- 📫 How to reach me: [Personal Portfolio](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
-- ⚡ Other facts: Football and  Fitness Freak, YouTuber.
-
+Contact:  [Personal Website](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
+
+
+
