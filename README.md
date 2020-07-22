@@ -15,15 +15,19 @@
 <a href="https://www.kaggle.com/amithasanshuvo">
   <img align="left" alt="Shuvo's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
+<a href="https://www.researchgate.net/profile/Kazi_Amit_Hasan">
+  <img align="left" alt="Shuvo's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
+</a>
 <br />
 
 
 ## This is Kazi Amit Hasan
 #### Kaggle Expert (x2) | Undergraduate Research Student
-- A Data enthusiast.
+#### Currently looking for Data Scientist, Research Assistant Roles!
+- Data Science enthusiast.
 - A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
 - Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
-- I'm currently looking for opportunities as Data Scientist, Research Assistant Roles!
+- Lastest Publication: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets
 
 Contact:  [Personal Website](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
 
