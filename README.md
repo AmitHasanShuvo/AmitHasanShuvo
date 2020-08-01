@@ -1,6 +1,9 @@
 ## Hello World!
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
+[<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHasanShuvo&layout=compact"/>](https://github.com/AmitHasanShuvo/)
+
+
 
 <a href="https://www.linkedin.com/in/kazi-amit-hasan/">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -33,5 +36,4 @@
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 
-
-
+⭐️ From [AmitHasanShuvo](https://github.com/AmitHasanShuvo)
