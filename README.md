@@ -1,7 +1,7 @@
 ## Hello World!
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
-[<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHasanShuvo&layout=compact"/>](https://github.com/AmitHasanShuvo/)
+
 
 
 
