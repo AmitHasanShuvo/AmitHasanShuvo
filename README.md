@@ -35,4 +35,4 @@
 **To know more:**  [Website](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 
-<img align='right' src="https://komarev.com/ghpvc/?username=AmitHasanShuvo" alt="AmitHasanShuvo" /> 
+<p><img align='right' src="https://komarev.com/ghpvc/?username=AmitHasanShuvo" alt="AmitHasanShuvo" /> </p>
