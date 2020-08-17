@@ -34,6 +34,6 @@
 
 **To know more:**  [Portfolio](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com)
 <br/>
-Check the repositories section to see my efforts! Hope, you will enjoy it.
+Check the repositories section to see my efforts! Hope, you will enjoy it!
 <br/>
 <p><img align='right' src="https://komarev.com/ghpvc/?username=AmitHasanShuvo" alt="AmitHasanShuvo" /> </p>
