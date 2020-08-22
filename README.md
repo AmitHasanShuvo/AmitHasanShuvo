@@ -25,7 +25,7 @@
 
 
 ## This is Kazi Amit Hasan!
-#### Kaggle Expert (x3) | Undergraduate Research Student
+#### Kaggle Expert (x4) | Undergraduate Research Student
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and research enthusiast.
 - A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
