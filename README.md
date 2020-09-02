@@ -1,4 +1,4 @@
-## Hello World!
+## Hello, This is Kazi Amit Hasan
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
@@ -24,7 +24,7 @@
 <br />
 
 
-## This is Kazi Amit Hasan!
+
 #### Kaggle Expert (x4) | Undergraduate Research Student
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and research enthusiast.
