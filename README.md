@@ -30,7 +30,7 @@
 - Data Science and research enthusiast.
 - A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
 - Currently working on Risk Factors Analysis of NHANES dataset and predicting diseases in Clinical Practice.
-- **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
+- **Latest Publication**: ECG Heartbeat Classification Using Ensemble of Efficient Machine Learning Approaches on Imbalanced Datasets *(Accepted in ICAICT 2020)*
 
 **To know more:**  [Portfolio](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com)
 <br/>
