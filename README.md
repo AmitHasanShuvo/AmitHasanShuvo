@@ -27,7 +27,7 @@
 
 #### Kaggle Competition Expert (x4) | Undergraduate Student Researcher
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
-- Data Science and research enthusiast.
+- Data Science and Research enthusiast.
 - A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
 - Currently working on Risk Factors Analysis of NHANES dataset and predicting diseases in Clinical Practice.
 - **Latest Publication**: ECG Heartbeat Classification Using Ensemble of Efficient Machine Learning Approaches on Imbalanced Datasets *(Accepted in ICAICT 2020)*
