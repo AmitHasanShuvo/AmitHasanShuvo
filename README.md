@@ -30,7 +30,7 @@
 - Data Science and Research enthusiast.
 - A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
 - Currently working on Risk Factors Analysis of NHANES dataset and predicting diseases in Clinical Practice.
-- **Latest Publication**: Prediction of Clinical Risk Factors of Diabetes Using Multiple Machine Learning Techniques Resolving Class Imbalance. *(Accepted in ICCIT 2020)*
+- **Latest Publication**: Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Accepted in ICECE 2020)*
 
 **To know more:**  [Portfolio](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com)
 <br/>
