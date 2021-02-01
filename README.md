@@ -25,7 +25,7 @@
 
 
 
-#### Kaggle Competition Expert (x4) | Undergraduate Student Researcher
+#### Machine Learning Engineer at ACI Limited | Kaggle Competition Expert (x4) 
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and Research enthusiast.
 - A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
