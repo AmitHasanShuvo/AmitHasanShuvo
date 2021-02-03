@@ -28,7 +28,7 @@
 #### Machine Learning Engineer at ACI Limited | Kaggle Competition Expert (x4) 
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and Research enthusiast.
-- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
+- Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
 - Currently working on Risk Factors Analysis of NHANES dataset and predicting diseases in Clinical Practice.
 - **Latest Publication**: Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Accepted in ICECE 2020)*
 
