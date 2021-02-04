@@ -25,7 +25,7 @@
 
 
 
-#### Machine Learning Engineer at ACI Limited | Kaggle Competition Expert (x4) 
+#### Machine Learning Engineer @ ACI Limited | Kaggle Competition Expert (x4) 
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and Research enthusiast.
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
