@@ -29,7 +29,7 @@
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and Research enthusiast.
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
-- Currently learning and working on NLP projects .
+- Currently learning and working on RFM projects .
 - **Latest Publication**: Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Available online)*
 
 **To know more:**  [Portfolio](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com)
