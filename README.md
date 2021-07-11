@@ -13,24 +13,7 @@
 - Currently working on XAI and different data driven predictive, analytical projects .
 - **Latest Publication**: Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Available online)*
 
-**To know more:**  
-<a href="https://www.linkedin.com/in/kazi-amit-hasan/">
-  <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AmitHasanShuvo">
-  <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
-  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-</a>
-
-<a href="https://www.kaggle.com/amithasanshuvo">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.researchgate.net/profile/Kazi_Amit_Hasan">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
-</a>
-[Portfolio](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com)
+**To know more:**  [Portfolio](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com), [Github](https://github.com/AmitHasanShuvo), [YouTube](https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber), [Kaggle](https://www.kaggle.com/amithasanshuvo), [ResearchGate](https://www.researchgate.net/profile/Kazi_Amit_Hasan)
 <br/>
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 <br/>
