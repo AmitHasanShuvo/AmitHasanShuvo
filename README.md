@@ -3,8 +3,7 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
 
-
-
+Reach me:
 <a href="https://www.linkedin.com/in/kazi-amit-hasan/">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,7 +20,7 @@
 <a href="https://www.researchgate.net/profile/Kazi_Amit_Hasan">
   <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
 </a>
-<br />
+<br>
 
 
 
