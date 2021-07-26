@@ -6,6 +6,7 @@
 
 - ***Machine Learning Engineer @ ACI Limited***
 - ***Researcher***
+- ***2.5 years of experience in ML, DS, Health Analytics and Statistical Analysis***
 - ***Kaggle Competition Expert (x4) [Top 0.6%]***
 - ***Top ranks in 10++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
