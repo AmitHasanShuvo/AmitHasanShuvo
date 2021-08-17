@@ -13,6 +13,8 @@
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
 - Currently working on XAI and different data driven predictive, analytical projects .
 - **Latest Publication**: Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Available online)*
+- **Latest ML Competition Rank**: Ranked 28th out of 2132 participants (Top 1.3%) in Of Genomes And Genetics: HackerEarth Machine Learning Challenge. * [(Leaderboard)](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/leaderboard/predict-the-genetic-disorders-9-76826a5e/)*
+
 
 **To know more:**  [Portfolio](https://amithasanshuvo.github.io/), [Google Schoalr](https://scholar.google.com/citations?user=t9ko5DMAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com), [Github](https://github.com/AmitHasanShuvo), [YouTube](https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber), [Kaggle](https://www.kaggle.com/amithasanshuvo), [ResearchGate](https://www.researchgate.net/profile/Kazi_Amit_Hasan)
 <br/>
