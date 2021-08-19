@@ -5,7 +5,7 @@
 
 
 - ***Machine Learning Engineer @ ACI Limited***
-- ***Creator of***```data_inspector```
+- ***Creator of*** ```data_inspector```
 - ***Researcher***
 - ***2.5 years of experience in ML, DS, Health Analytics and Statistical Analysis***
 - ***Kaggle Competition Expert (x4) [Top 0.6%]***
