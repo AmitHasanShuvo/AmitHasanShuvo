@@ -9,7 +9,7 @@
 - ***Researcher***
 - ***2.5 years of experience in ML, DS, Health Analytics and Statistical Analysis***
 - ***Kaggle Competition Expert (x4) [Top 0.6%]***
-- ***Top ranks in 10++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
+- ***Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
 - Currently working on XAI and different data driven predictive, analytical projects .
