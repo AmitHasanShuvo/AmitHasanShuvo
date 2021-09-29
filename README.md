@@ -10,7 +10,7 @@
 - ***2.5 years of experience in ML, DS, Health Analytics and Statistical Analysis***
 - ***Kaggle Competition Expert (x4) [Top 0.6%]***
 - ***Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
-#### *Currently looking for Data Scientist, Research Assistant Roles!*
+#### *Currently looking for Data Scientist, Graduate studies opportunities!*
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
 - Currently working on XAI and different data driven predictive, analytical projects .
 - **Latest Publication:** Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Available online)*
