@@ -12,7 +12,8 @@
 - ***Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
 #### *Currently looking for Data Scientist, Graduate studies opportunities!*
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
-- Currently working on XAI and different data driven predictive, analytical projects .
+- Currently working on XAI and different data driven predictive, analytical projects.
+- **Research interests:** Data Mining, Machine Learning, Deep Learning, Data Analytics.
 - **Latest Publication:** Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Available online)*
 - **Latest ML Competition Rank:** Ranked **28th out of 2132 participants (Top 1.3%)** in Of Genomes And Genetics: HackerEarth Machine Learning Challenge. [(Leaderboard)](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/leaderboard/predict-the-genetic-disorders-9-76826a5e/)
 
