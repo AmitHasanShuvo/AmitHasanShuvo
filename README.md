@@ -15,7 +15,7 @@
 - Currently working on XAI and different data driven predictive, analytical projects.
 - **Research interests:** Data Mining, Machine Learning, Deep Learning, Data Analytics.
 - **Latest Publication:** Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Available online)*
-- **Latest ML Competition Rank:** Selected as **finalists out of 358 teams (Top 6%)** in Robi Datathon 2.0
+- **Latest ML Competition Rank:** Selected as **finalists (Top 6) out of 358 teams** in Robi Datathon 2.0
 
 
 **To know more:**  [Portfolio](https://amithasanshuvo.github.io/), [Google Schoalr](https://scholar.google.com/citations?user=t9ko5DMAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com), [Github](https://github.com/AmitHasanShuvo), [YouTube](https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber), [Kaggle](https://www.kaggle.com/amithasanshuvo), [ResearchGate](https://www.researchgate.net/profile/Kazi_Amit_Hasan)
