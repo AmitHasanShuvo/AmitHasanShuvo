@@ -3,7 +3,7 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
 
-- ***Incoming MSc student at Queen's University***
+- ***MSc student at Queen's University***
 - ***Ex-Machine Learning Engineer @ ACI Limited***
 - ***Creator of [data-inspector](https://pypi.org/project/data-inspector/)***  [![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector)
 - ***Researcher***
