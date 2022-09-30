@@ -3,7 +3,7 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
 
-- ***MSc student at Queen's University***
+- ***Graduate Researh Fellow at Queen's University***
 - ***Ex-Machine Learning Engineer @ ACI Limited***
 - ***Creator of [data-inspector](https://pypi.org/project/data-inspector/)***  [![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector)
 - ***Researcher***
@@ -12,8 +12,8 @@
 - ***Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
 #### *Currently looking for Data Scientist, Graduate studies opportunities!*
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
-- Currently working on XAI and different data driven predictive, analytical projects.
-- **Research interests:** Data Mining, Machine Learning, Deep Learning, Data Analytics.
+- Currently working in software engineering and machine learning.
+- **Research interests:** Data Mining, Software Engineering, Machine Learning, Deep Learning, Data Analytics.
 - **Latest Publication:** Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Available online)*
 - **Latest ML Competition Rank:** ***Runners Up*** in Robi Datathon 2.0
 
