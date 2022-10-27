@@ -13,7 +13,7 @@
 #### *Currently looking for Data Scientist, Graduate studies opportunities!*
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
 - Currently working in software engineering and machine learning.
-- **Research interests:** Data Mining, Software Engineering, Machine Learning, Deep Learning, Data Analytics.
+- **Research interests:** Data Mining, Software Engineering, Machine Learning, Mining Software Repositories, Data Analytics.
 - **Latest Publication:** Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches *(Available online)*
 - **Latest ML Competition Rank:** ***Runners Up*** in Robi Datathon 2.0
 
