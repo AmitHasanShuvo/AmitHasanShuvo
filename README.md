@@ -5,7 +5,7 @@
 
 - ***Graduate Researh Fellow & Teaching Assistant at Queen's University***
 - ***Ex-Machine Learning Engineer @ ACI Limited***
-- ***Creator of [data-inspector](https://pypi.org/project/data-inspector/)***  [![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector)
+- ***Creator of [data-inspector](https://pypi.org/project/data-inspector/)***  [![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector) and [pr-stats]
 - ***Researcher focused in Software Engineering & Data Mining***
 - ***3.5 years of experience in ML, DS, Analytics and Statistical Analysis***
 - ***Kaggle Competition Expert (x4) [Top 0.6%]***
