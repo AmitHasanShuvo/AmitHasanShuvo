@@ -1,6 +1,6 @@
 ## Hello, This is Kazi Amit Hasan!
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
+
 
 
 - ***Graduate Researh Fellow & Teaching Assistant at Queen's University***
