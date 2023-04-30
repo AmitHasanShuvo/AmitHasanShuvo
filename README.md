@@ -11,7 +11,7 @@
 - ***Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
 - **Research interests:** Data Mining, Software Engineering, Machine Learning, Mining Software Repositories, Data Analytics.
-- **Latest Publication:** Understanding the Time to First Response In GitHub Pull Requests [MSR 23] *(Will available online soon)*
+- **Latest Publication:** Understanding the Time to First Response In GitHub Pull Requests [MSR 23] 
 - **Latest ML Competition Rank:** ***Runners Up*** in Robi Datathon 2.0
 
 
