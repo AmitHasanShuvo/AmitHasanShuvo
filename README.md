@@ -3,7 +3,7 @@
 
 
 
-- ***Graduate Researh Fellow & Teaching Assistant at Queen's University***
+- ***Graduate Researh Fellow at Queen's University***
 - ***Former Machine Learning Engineer @ ACI Limited***
 - ***Creator of [data-inspector](https://pypi.org/project/data-inspector/) and [pr-stats](https://pypi.org/project/pr-stats/)***
 - ***4 years of experience in ML, DS, Analytics and Statistical Analysis***
