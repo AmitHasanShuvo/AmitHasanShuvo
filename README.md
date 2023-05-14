@@ -6,7 +6,6 @@
 - ***Graduate Researh Fellow at Queen's University***
 - ***Former Machine Learning Engineer @ ACI Limited***
 - ***Open source contributions***: [data-inspector](https://pypi.org/project/data-inspector/), [pr-stats](https://pypi.org/project/pr-stats/) and [PR-Accelerator](https://github.com/RISElabQueens/PR-Accelerator)
-- ***Creator of [data-inspector](https://pypi.org/project/data-inspector/) and [pr-stats](https://pypi.org/project/pr-stats/)***
 - ***4 years of experience in ML, DS, Analytics and Statistical Analysis***
 - ***Kaggle Competition Expert (x4) [Top 0.6%]***
 - ***Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
