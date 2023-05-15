@@ -6,7 +6,7 @@
 - ***Graduate Researh Fellow at Queen's University***
 - ***Former Machine Learning Engineer @ ACI Limited***
 - ***Open source contributions***: [data-inspector](https://pypi.org/project/data-inspector/), [pr-stats](https://pypi.org/project/pr-stats/) and [PR-Accelerator](https://github.com/RISElabQueens/PR-Accelerator)
-- ***4 years of experience in ML, DS, Analytics and Statistical Analysis***
+- ***5 years of experience in ML, DS, Analytics and Statistical Analysis***
 - ***Kaggle Competition Expert (x4) [Top 0.6%]***
 - ***Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
