@@ -3,8 +3,8 @@
 
 
 
-- ***PhD Student, Researcher at RISE Lab, Queen's University***
-- ***Graduate Researh Fellow at Queen's University***
+- ***PhD Student in School of Computing, Queen's University***
+- ***Graduate Researh Fellow at RISE Lab, Queen's University***
 - ***Former Machine Learning Engineer @ ACI Limited***
 - ***Open source contributions***: [data-inspector](https://pypi.org/project/data-inspector/), [pr-stats](https://pypi.org/project/pr-stats/) and [PR-Accelerator](https://github.com/RISElabQueens/PR-Accelerator)
 - ***5 years of experience in ML, DS, Analytics and Statistical Analysis***
