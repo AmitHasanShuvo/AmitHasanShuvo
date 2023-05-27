@@ -4,7 +4,7 @@
 
 
 - ***PhD Student in School of Computing, Queen's University, Canada***
-- ***Graduate Researh Fellow at RISE Lab, Queen's University, Canada***
+- ***Graduate Researh Assistant at RISE Lab, Queen's University, Canada***
 - ***Former Machine Learning Engineer @ ACI Limited, Bangladesh***
 - ***Open source contributions***: [data-inspector](https://pypi.org/project/data-inspector/), [pr-stats](https://pypi.org/project/pr-stats/) and [PR-Accelerator](https://github.com/RISElabQueens/PR-Accelerator)
 - ***5 years of experience in ML, DS, Analytics and Statistical Analysis***
