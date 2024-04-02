@@ -1,8 +1,5 @@
 ## Hello, This is Kazi Amit Hasan!
 
-
-
-
 - ***PhD Student in School of Computing, Queen's University, Canada***
 - ***Graduate Researh Assistant at RISE Lab, Queen's University, Canada***
 - ***Former Machine Learning Engineer @ ACI Limited, Bangladesh***
