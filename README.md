@@ -1,6 +1,6 @@
 ## Hello, This is Kazi Amit Hasan!
 
-- ***PhD Student in School of Computing, Queen's University, Canada***
+- ***Fast-Track PhD Student in School of Computing, Queen's University, Canada***
 - ***Graduate Researh Assistant at RISE Lab, Queen's University, Canada***
 - ***Former Machine Learning Engineer @ ACI Limited, Bangladesh***
 - ***Open source contributions***: [data-inspector](https://pypi.org/project/data-inspector/), [pr-stats](https://pypi.org/project/pr-stats/) and [PR-Accelerator](https://github.com/RISElabQueens/PR-Accelerator)
